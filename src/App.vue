@@ -11,5 +11,4 @@ import NavigationBar from "./components/layouts/NavigationBar.vue";
 
 <style>
 @import "@/assets/css/styles.css";
-
 </style>

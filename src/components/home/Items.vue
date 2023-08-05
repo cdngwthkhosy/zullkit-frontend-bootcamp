@@ -1,5 +1,5 @@
 <script setup>
-import ItemsCard from '../card/ItemsCard.vue';
+import ItemsCard from '../card/ItemCard.vue';
 import { ref } from 'vue';
 
 const items = ref([
